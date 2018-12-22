@@ -1,0 +1,61 @@
+.jumbotron {
+    position: relative;
+    padding:20px;
+    margin-top: 23px;
+    text-align:center;
+    margin-bottom: 0;
+}
+
+#col1, #col2 {
+    width:47.5%;
+    margin:10px;
+    padding:10px;
+    background:#fff;
+   
+}
+
+a {
+    color: black;
+}
+
+body {
+    font-family: 'Jura', sans-serif;
+    background:#0a4981;
+}
+
+footer {
+    margin:75px;
+    padding:25px;
+    color:black; 
+}
+
+body {
+    font-family: 'Jura', sans-serif;
+    background:#0a4981;
+}
+h1 {
+    color: black;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.main {
+    border: 1px solid black;
+    background: white;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.second {
+    border: 1px solid black;
+    background: white;
+    width: 50%;
+    margin: 0 auto;
+}
+.col {
+    margin-top: 50px;
+}
+.signin-form {
+    width: 33%;
+    margin: 5px auto;
+}
